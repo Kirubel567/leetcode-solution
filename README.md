@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
