@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
