@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Kirubel567/leetcode-solution/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Kirubel567/leetcode-solution/tree/master/2556-convert-the-temperature) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kirubel567/leetcode-solution/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kirubel567/leetcode-solution/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
