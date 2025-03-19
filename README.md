@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -113,9 +114,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
