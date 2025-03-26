@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Kirubel567/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Kirubel567/leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kirubel567/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kirubel567/leetcode-solution/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
 ## Recursion
