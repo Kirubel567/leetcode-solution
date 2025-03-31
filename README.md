@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kirubel567/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kirubel567/leetcode-solution/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Kirubel567/leetcode-solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kirubel567/leetcode-solution/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
