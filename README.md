@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kirubel567/leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
 ## Number Theory
@@ -145,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
