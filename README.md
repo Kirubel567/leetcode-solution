@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
+| [0932-monotonic-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
