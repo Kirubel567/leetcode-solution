@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Kirubel567/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kirubel567/leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Kirubel567/leetcode-solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kirubel567/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
