@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
