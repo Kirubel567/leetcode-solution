@@ -1,35 +1,25 @@
 class Solution {
 public:
-    bool isVowel(char inputChar)
-    {
-        if(inputChar == 'a' || inputChar == 'e' || inputChar == 'i' || inputChar =='o' || inputChar == 'u' || inputChar == 'A' || inputChar == 'E' || inputChar == 'I' || inputChar == 'O' || inputChar == 'U')
-        {
-            return true;
-        }
-        return false;
-    }
-    
-    string reverseVowels(string s) 
-    {
-        int leftPointer = 0;
-        int rightPointer = s.size() - 1;
-        while(leftPointer < rightPointer)
-        {
-            while(leftPointer < rightPointer && !isVowel(s[leftPointer]))
-            {
-                leftPointer++;
-            }
+    string reverseVowels(string s) {
+        int left = 0; 
+        int right = s.size() - 1; 
+        string check = "AEIOUaeiou"; 
 
-            while(leftPointer < rightPointer && !isVowel(s[rightPointer]))
-            {
-                rightPointer--;
+        while (left <= right){
+            
+            if(check.find(s[right]) != string::npos && check.find(s[left]) != string::npos){
+                int temp = s[right]; 
+                s[right] = s[left]; 
+                s[left] = temp;  
+                right--; 
+                left++; 
+            }else if(check.find(s[left]) == string::npos){
+                left++; 
+            }else if (check.find(s[right]) == string::npos){
+                right--; 
             }
-            char temp = s[leftPointer];
-            s[leftPointer] = s[rightPointer];
-            s[rightPointer] = temp;
-            leftPointer++;
-            rightPointer--;
-        }    
-        return s;
+        }
+        return s; 
+        
     }
 };
