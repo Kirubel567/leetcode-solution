@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2391-strong-password-checker-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/2391-strong-password-checker-ii) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
 | [3636-check-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3636-check-balanced-string) |
 ## Two Pointers
