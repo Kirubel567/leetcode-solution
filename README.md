@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
