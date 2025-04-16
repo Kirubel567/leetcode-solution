@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2391-strong-password-checker-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/2391-strong-password-checker-ii) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
 | [3636-check-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3636-check-balanced-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
