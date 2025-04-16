@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
