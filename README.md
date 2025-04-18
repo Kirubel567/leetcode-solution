@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Kirubel567/leetcode-solution/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/Kirubel567/leetcode-solution/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
