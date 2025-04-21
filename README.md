@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
