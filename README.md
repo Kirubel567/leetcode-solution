@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2037-count-square-sum-triples](https://github.com/Kirubel567/leetcode-solution/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Kirubel567/leetcode-solution/tree/master/2238-a-number-after-a-double-reversal) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/Kirubel567/leetcode-solution/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
