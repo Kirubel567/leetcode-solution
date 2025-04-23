@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2037-count-square-sum-triples](https://github.com/Kirubel567/leetcode-solution/tree/master/2037-count-square-sum-triples) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Kirubel567/leetcode-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Kirubel567/leetcode-solution/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
