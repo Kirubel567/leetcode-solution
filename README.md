@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Kirubel567/leetcode-solution/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2812-find-the-maximum-achievable-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kirubel567/leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
