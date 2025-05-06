@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kirubel567/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kirubel567/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kirubel567/leetcode-solution/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -402,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kirubel567/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
