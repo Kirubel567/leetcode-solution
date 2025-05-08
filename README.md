@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2122-count-special-quadruplets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
