@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
 ## Number Theory
