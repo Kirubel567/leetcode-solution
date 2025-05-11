@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Kirubel567/leetcode-solution/tree/master/1137-height-checker) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
