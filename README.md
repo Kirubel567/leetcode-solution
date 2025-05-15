@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Kirubel567/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
