@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kirubel567/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
