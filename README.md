@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kirubel567/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kirubel567/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kirubel567/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kirubel567/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kirubel567/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/0258-add-digits) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kirubel567/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
