@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kirubel567/leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-stone-removal-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
+| [3625-stone-removal-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3625-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
