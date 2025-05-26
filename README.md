@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Kirubel567/leetcode-solution/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kirubel567/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Kirubel567/leetcode-solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
