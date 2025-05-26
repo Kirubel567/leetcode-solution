@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kirubel567/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
