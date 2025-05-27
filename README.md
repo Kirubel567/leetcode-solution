@@ -492,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Kirubel567/leetcode-solution/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
