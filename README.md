@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/Kirubel567/leetcode-solution/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Kirubel567/leetcode-solution/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0812-rotate-string) |
