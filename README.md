@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kirubel567/leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Kirubel567/leetcode-solution/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2998-count-symmetric-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -507,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Kirubel567/leetcode-solution/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Kirubel567/leetcode-solution/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Kirubel567/leetcode-solution/tree/master/0577-employee-bonus) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
