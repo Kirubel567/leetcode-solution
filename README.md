@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2122-count-special-quadruplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kirubel567/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kirubel567/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/Kirubel567/leetcode-solution/tree/master/2235-capitalize-the-title) |
 | [2391-strong-password-checker-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/2391-strong-password-checker-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kirubel567/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
