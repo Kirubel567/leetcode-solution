@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kirubel567/leetcode-solution/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
@@ -535,4 +538,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
