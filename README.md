@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
 |  |
 | ------- |
