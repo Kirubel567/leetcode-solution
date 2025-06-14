@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kirubel567/leetcode-solution/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kirubel567/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 ## Binary Tree
 |  |
 | ------- |
