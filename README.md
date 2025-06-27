@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kirubel567/leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kirubel567/leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Kirubel567/leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kirubel567/leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
