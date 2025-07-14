@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Kirubel567/leetcode-solution/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Kirubel567/leetcode-solution/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Kirubel567/leetcode-solution/tree/master/0577-employee-bonus) |
+| [1837-daily-leads-and-partners](https://github.com/Kirubel567/leetcode-solution/tree/master/1837-daily-leads-and-partners) |
 ## Combinatorics
 |  |
 | ------- |
