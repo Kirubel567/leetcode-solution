@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Kirubel567/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Kirubel567/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 ## Tree
 |  |
