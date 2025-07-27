@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [1954-replace-all-digits-with-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kirubel567/leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Kirubel567/leetcode-solution/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
