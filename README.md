@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3371-harshad-number](https://github.com/Kirubel567/leetcode-solution/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kirubel567/leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
