@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Kirubel567/leetcode-solution/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
+| [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3625-stone-removal-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3625-stone-removal-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/Kirubel567/leetcode-solution/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
