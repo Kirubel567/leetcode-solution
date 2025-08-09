@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3625-stone-removal-game) |
+| [3830-find-closest-person](https://github.com/Kirubel567/leetcode-solution/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
