@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
