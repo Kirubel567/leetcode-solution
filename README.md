@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kirubel567/leetcode-solution/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
+| [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kirubel567/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Design
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 ## Binary Tree
 |  |
 | ------- |
@@ -687,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
