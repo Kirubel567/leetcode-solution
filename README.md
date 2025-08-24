@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirubel567/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0234-palindrome-linked-list) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirubel567/leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirubel567/leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
