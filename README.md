@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirubel567/leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 ## Binary Tree
 |  |
