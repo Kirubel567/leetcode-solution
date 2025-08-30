@@ -6,7 +6,7 @@ class Solution:
         stack = []
 
         for ch in s:
-            if stack and ch != stack[-1] and (ch == stack[-1].lower() or ch.lower() == stack[-1]):
+            if stack and abs(ord(ch) - ord(stack[-1])) == 32:
                 stack.pop() 
             else: 
                 stack.append(ch)
