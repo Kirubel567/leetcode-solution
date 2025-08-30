@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/Kirubel567/leetcode-solution/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kirubel567/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/Kirubel567/leetcode-solution/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
