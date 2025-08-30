@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Kirubel567/leetcode-solution/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kirubel567/leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kirubel567/leetcode-solution/tree/master/0069-sqrtx) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kirubel567/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Kirubel567/leetcode-solution/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0206-reverse-linked-list) |
