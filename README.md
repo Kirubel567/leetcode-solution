@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kirubel567/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kirubel567/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kirubel567/leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -799,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
