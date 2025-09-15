@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
