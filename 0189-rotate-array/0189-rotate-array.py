@@ -3,12 +3,23 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        res = [0]*len(nums)
 
-        for i in range(len(nums)): 
-            pos = (i + k) % len(nums)
-            res[pos] = nums[i]
-    
-        for i in range(len(nums)): 
-            nums[i] = res[i]
+        #first rotate the array 
+        nums.reverse()
+        k = k % len(nums)
+        left, right = k,len(nums)-1
+        print(nums)
+        while left < right: 
+            nums[right], nums[left] = nums[left], nums[right]
+            right-=1
+            left+= 1
+
+        first, second = 0, k-1
+        while first < second: 
+            nums[first], nums[second] = nums[second], nums[first]
+            first += 1
+            second -= 1
+
+          
+        
 
