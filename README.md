@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Kirubel567/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Kirubel567/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Kirubel567/leetcode-solution/tree/master/0506-relative-ranks) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kirubel567/leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Kirubel567/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Kirubel567/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0661-image-smoother](https://github.com/Kirubel567/leetcode-solution/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
