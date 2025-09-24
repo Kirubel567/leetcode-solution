@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Kirubel567/leetcode-solution/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
+| [0661-image-smoother](https://github.com/Kirubel567/leetcode-solution/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kirubel567/leetcode-solution/tree/master/1791-richest-customer-wealth) |
