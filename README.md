@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kirubel567/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kirubel567/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kirubel567/leetcode-solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Kirubel567/leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Kirubel567/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
