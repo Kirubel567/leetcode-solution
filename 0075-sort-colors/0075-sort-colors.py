@@ -3,10 +3,24 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        rcounter, wcounter, bcounter = 0, 0, 0
+        for i in range(len(nums)): 
+            if nums[i] == 0: 
+                rcounter += 1
+            elif nums[i] == 1: 
+                wcounter += 1
+            else: 
+                bcounter += 1
 
         for i in range(len(nums)): 
-            for j in range(i+1, len(nums)): 
-                if nums[j] < nums[i]: 
-                    nums[j], nums[i] = nums[i], nums[j]
+            if rcounter >0: 
+                nums[i] = 0
+                rcounter-=1
+            elif wcounter >0: 
+                nums[i] = 1
+                wcounter -=1
+            else: 
+                nums[i] = 2
+                
             
         
