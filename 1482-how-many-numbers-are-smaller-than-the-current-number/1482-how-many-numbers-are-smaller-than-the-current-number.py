@@ -1,15 +1,14 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        compare = sorted(nums)
-        mapp = defaultdict(int)
+        idxHolder = defaultdict(int)
+        sor = sorted(nums)
+        for i in range(len(sor)): 
+            if sor[i] not in idxHolder:
+                idxHolder[sor[i]] = i
 
-        for i in range(len(sorted(nums))): 
-            if compare[i] not in mapp: 
-                mapp[compare[i]] = i
-        
+
         res = []
         for i in range(len(nums)): 
-            res.append(mapp[nums[i]])
+            res.append(idxHolder[nums[i]])
 
-        return res 
-
+        return res
