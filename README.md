@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Kirubel567/leetcode-solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Kirubel567/leetcode-solution/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kirubel567/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Kirubel567/leetcode-solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Kirubel567/leetcode-solution/tree/master/0561-array-partition) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0541-reverse-string-ii) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Kirubel567/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kirubel567/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
