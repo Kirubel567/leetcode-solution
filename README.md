@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2630-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kirubel567/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/Kirubel567/leetcode-solution/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kirubel567/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
 |  |
