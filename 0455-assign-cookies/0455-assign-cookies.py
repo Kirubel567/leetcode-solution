@@ -1,20 +1,20 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        left = 0
-        right = 0
-        count = 0
+        #function : maximize the content of each child 
+        #variables: the candies with their sizes
+        # constraint : 1 for each child
+        
+        #sort both the children and the candies 
         g.sort()
         s.sort()
 
-        while left < len(g) and right < len(s):
-            if g[left] <= s[right]:
-                count+= 1
-                left+= 1
-                right +=1 
-            else: 
-                right+=1
-            
-            
-        return count
+        content = 0
+        gp, sp = 0, 0
+        while gp < len(g) and sp < len(s): 
+            if g[gp] <= s[sp]: 
+                content += 1
+                gp += 1
+            sp += 1
 
-        
+
+        return content 
