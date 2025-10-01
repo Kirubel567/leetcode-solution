@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Kirubel567/leetcode-solution/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Kirubel567/leetcode-solution/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Kirubel567/leetcode-solution/tree/master/2491-smallest-even-multiple) |
