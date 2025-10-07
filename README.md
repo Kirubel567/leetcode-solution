@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kirubel567/leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kirubel567/leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kirubel567/leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kirubel567/leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kirubel567/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/Kirubel567/leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Kirubel567/leetcode-solution/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kirubel567/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kirubel567/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kirubel567/leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Kirubel567/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
