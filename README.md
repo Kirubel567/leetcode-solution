@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Kirubel567/leetcode-solution/tree/master/2401-count-asterisks) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kirubel567/leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kirubel567/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Kirubel567/leetcode-solution/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kirubel567/leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |
