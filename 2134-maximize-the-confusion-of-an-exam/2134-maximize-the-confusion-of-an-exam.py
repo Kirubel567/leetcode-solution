@@ -2,16 +2,17 @@ class Solution:
     def maxConsecutiveAnswers(self, answerKey: str, k: int) -> int:
         #we need to count the number of trues and false's then if their number in that substring is less than or equal to k, then we add the window
 
-        window = 0
-        count = {"T":0, "F":0}
+        l, ans, window = 0, -float('inf'), 0
+        count = defaultdict(int)
 
-        for i in range(len(answerKey)): 
-            count[answerKey[i]] += 1
-            minimum = min(count["T"], count["F"])
+        for right in range(len(answerKey)): 
+            count[answerKey[right]] += 1
+            window += 1
 
-            if minimum <= k: 
-                window +=1
-            else: 
-                count[answerKey[i - window]] -= 1
-            
-        return window
+            while window - max(count.values()) > k: 
+                count[answerKey[l]] -= 1
+                l+= 1
+                window -= 1
+            ans = max(window, ans)
+                
+        return ans 
