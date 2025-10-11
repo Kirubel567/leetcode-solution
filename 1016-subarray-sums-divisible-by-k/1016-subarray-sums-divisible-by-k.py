@@ -1,17 +1,15 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        prefix_sum = 0
-        res = 0
+        pref_sum = defaultdict(int)
+        pref_sum[0]=1
+        count, Sum = 0, 0
+
+        for i in range(len(nums)): 
+            Sum += nums[i]
+            remainder = Sum % k
+
+            count += pref_sum[remainder]
+            pref_sum[remainder] += 1
         
-        prefix_cnt = defaultdict(int)
-        prefix_cnt[0] = 1
+        return count
 
-        for n in nums: 
-            prefix_sum += n
-            remain = prefix_sum % k 
-
-            if remain in prefix_cnt: 
-                res += prefix_cnt[remain]
-            prefix_cnt[remain] += 1
-            
-        return res 
