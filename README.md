@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/Kirubel567/leetcode-solution/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Kirubel567/leetcode-solution/tree/master/1137-height-checker) |
+| [1206-corporate-flight-bookings](https://github.com/Kirubel567/leetcode-solution/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Kirubel567/leetcode-solution/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kirubel567/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kirubel567/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kirubel567/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1206-corporate-flight-bookings](https://github.com/Kirubel567/leetcode-solution/tree/master/1206-corporate-flight-bookings) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kirubel567/leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Kirubel567/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
