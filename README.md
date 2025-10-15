@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kirubel567/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kirubel567/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/Kirubel567/leetcode-solution/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Kirubel567/leetcode-solution/tree/master/1206-corporate-flight-bookings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kirubel567/leetcode-solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
