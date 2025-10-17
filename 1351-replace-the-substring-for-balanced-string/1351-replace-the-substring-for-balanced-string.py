@@ -14,11 +14,7 @@ class Solution:
 
             while left <= right and max(count.values()) <= n: 
                 ans = min(ans, right - left +1)
-
                 count[s[left]] += 1
                 left += 1
-
-        
-
 
         return ans 
