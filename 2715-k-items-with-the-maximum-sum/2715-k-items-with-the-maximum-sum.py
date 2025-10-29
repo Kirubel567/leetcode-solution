@@ -7,16 +7,17 @@ class Solution:
         #start choosing from ones then to numZeroes then finally to numnegs
 
         Sum, count = 0, 0
-        while count < k: 
-            if numOnes > 0: 
-                Sum += 1
-                numOnes -= 1
-            elif numZeros > 0: 
-                numZeros -= 1
-            else: 
-                Sum -= 1
-                numNegOnes -= 1
-
+        while numOnes > 0 and count < k: 
+            Sum+= 1
             count += 1
+            numOnes -= 1
+        while numZeros > 0 and count < k: 
+            Sum += 0
+            count += 1
+            numZeros -= 1
+        while numNegOnes > 0 and count < k: 
+            Sum -= 1
+            count += 1
+            numNegOnes -= 1
         
         return Sum 
