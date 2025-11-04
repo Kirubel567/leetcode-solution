@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kirubel567/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Kirubel567/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kirubel567/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kirubel567/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirubel567/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kirubel567/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kirubel567/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0344-reverse-string) |
