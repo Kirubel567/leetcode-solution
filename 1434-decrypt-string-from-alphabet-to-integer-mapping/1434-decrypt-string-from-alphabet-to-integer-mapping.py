@@ -8,20 +8,13 @@ class Solution:
             if s[i] != '#':
                 ch = chr(int(s[i])+96)
                 ans += ch
+                i -=1
             else: 
                 curr = ''
-                while i >= 0: 
-                    i-=1
-                    curr += s[i]
-                    i-=1
-                    curr += s[i]
-                    break
-                reverse = curr[::-1]
-                ch = chr(int(reverse)+96)
+                curr = s[i-2:i]
+                ch = chr(int(curr)+96)
                 ans += ch
-            
-            i-=1
-
+                i -= 3
         return ans[::-1] 
 
 
