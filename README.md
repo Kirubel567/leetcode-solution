@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kirubel567/leetcode-solution/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1542-consecutive-characters) |
