@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kirubel567/leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 | [2886-faulty-keyboard](https://github.com/Kirubel567/leetcode-solution/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Kirubel567/leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3379-score-of-a-string) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
