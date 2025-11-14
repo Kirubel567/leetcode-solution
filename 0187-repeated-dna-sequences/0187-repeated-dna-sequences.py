@@ -1,6 +1,5 @@
 class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:
-        mapp = defaultdict(int)
         res, seen = set(), set()
 
         for l in range(len(s)-9): 
