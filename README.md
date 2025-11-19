@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/1656-count-good-triplets) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kirubel567/leetcode-solution/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Kirubel567/leetcode-solution/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kirubel567/leetcode-solution/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/Kirubel567/leetcode-solution/tree/master/1970-sorting-the-sentence) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Kirubel567/leetcode-solution/tree/master/1009-pancake-sorting) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Kirubel567/leetcode-solution/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0292-nim-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Database
 |  |
 | ------- |
