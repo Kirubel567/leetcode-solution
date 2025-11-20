@@ -1,20 +1,17 @@
 class Solution:
     def freqAlphabets(self, s: str) -> str:
-        # a = 65, but a is 65 -96 that's 1, so you can simply deduct 96 from each characters to find their number
-        #use the while loop to easily manipulate the iterating variable
-        i = len(s)-1
-        ans = ''
-        while i >=0: 
-            if s[i] != '#':
-                ch = chr(int(s[i])+96)
-                ans += ch
-                i -=1
+        #the character a is 97
+        #adding 96 to all of the numbers give the character in question 
+        #iterate through each number in the string, use while loop to better control the variables 
+        i, toWord = 0, ""
+
+        while i < len(s): 
+            converted = ""
+            if i < len(s) - 2 and s[i+2] == "#": 
+                converted = s[i] + s[i+1]
+                i += 2
             else: 
-                curr = ''
-                curr = s[i-2:i]
-                ch = chr(int(curr)+96)
-                ans += ch
-                i -= 3
-        return ans[::-1] 
-
-
+                converted = s[i]
+            toWord += chr(int(converted)+96)
+            i+=1
+        return toWord
