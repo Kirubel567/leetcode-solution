@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Kirubel567/leetcode-solution/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Kirubel567/leetcode-solution/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kirubel567/leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kirubel567/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kirubel567/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 ## Breadth-First Search
 |  |
