@@ -1,13 +1,29 @@
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
-        freq = Counter(arr1)
-        answer = []
-        for i in range(len(arr2)): 
-            for j in range(freq[arr2[i]]): 
-                answer.append(arr2[i])
-        sorter = []
-        for i in range(len(arr1)): 
-            if arr1[i] not in arr2: 
-                sorter.append(arr1[i])
+        #define a hashmap to store the frequency of the elements in arr1
+        freq = {}
 
-        return answer + sorted(sorter)
+        for i in range(len(arr1)): 
+            freq[arr1[i]] = freq.get(arr1[i], 0) +1
+        
+        #iterate through the second array and map them in a new arr
+        res = []
+
+        for j in range(len(arr2)): 
+            
+            count = freq[arr2[j]]
+            for i in range(count): 
+                res.append(arr2[j])
+        
+        rest = []
+        for key, value in freq.items(): 
+            if key not in arr2: 
+                count = value
+                if count > 0: 
+                    rest.extend([key] * count)
+        
+        
+        res.extend(sorted(rest))
+
+        
+        return res 
