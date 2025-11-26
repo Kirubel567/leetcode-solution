@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1630-arithmetic-subarrays](https://github.com/Kirubel567/leetcode-solution/tree/master/1630-arithmetic-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/1656-count-good-triplets) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/Kirubel567/leetcode-solution/tree/master/1630-arithmetic-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Kirubel567/leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kirubel567/leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/Kirubel567/leetcode-solution/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kirubel567/leetcode-solution/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
