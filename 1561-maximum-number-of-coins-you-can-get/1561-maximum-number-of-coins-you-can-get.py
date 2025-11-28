@@ -1,11 +1,17 @@
 class Solution:
-    def maxCoins(self, piles: List[int]) -> int:
-        #use two pointer technique after sorting the array 
+    def maxCoins(self, piles):
         piles.sort()
-        smallest, middle = 0, len(piles)-2
-        ans = 0
-        while smallest < middle: 
-            ans += piles[middle]
-            smallest += 1
-            middle -= 2
-        return ans 
+        n = len(piles)
+        
+        left = 0                
+        right = n - 1        
+        answer = 0
+        
+        
+        for _ in range(n // 3):
+            right -= 1          
+            answer += piles[right]  
+            right -= 1          
+            left += 1            
+        
+        return answer
