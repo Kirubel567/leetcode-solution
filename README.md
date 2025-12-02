@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Kirubel567/leetcode-solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Kirubel567/leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-long-pressed-name) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [1002-maximum-width-ramp](https://github.com/Kirubel567/leetcode-solution/tree/master/1002-maximum-width-ramp) |
