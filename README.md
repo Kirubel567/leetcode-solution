@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -1030,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kirubel567/leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
