@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kirubel567/leetcode-solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kirubel567/leetcode-solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Kirubel567/leetcode-solution/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kirubel567/leetcode-solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Kirubel567/leetcode-solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
