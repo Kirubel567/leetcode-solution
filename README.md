@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Kirubel567/leetcode-solution/tree/master/1598-crawler-log-folder) |
 | [1651-shuffle-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Kirubel567/leetcode-solution/tree/master/1666-make-the-string-great) |
+| [1754-largest-merge-of-two-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/1754-largest-merge-of-two-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kirubel567/leetcode-solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kirubel567/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Kirubel567/leetcode-solution/tree/master/1797-goal-parser-interpretation) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Kirubel567/leetcode-solution/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1754-largest-merge-of-two-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/1754-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/Kirubel567/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2109-adding-spaces-to-a-string) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1754-largest-merge-of-two-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/1754-largest-merge-of-two-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Kirubel567/leetcode-solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
