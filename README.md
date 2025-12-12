@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kirubel567/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Kirubel567/leetcode-solution/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Kirubel567/leetcode-solution/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kirubel567/leetcode-solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kirubel567/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/2715-k-items-with-the-maximum-sum) |
