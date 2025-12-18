@@ -19,7 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kirubel567/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kirubel567/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0054-spiral-matrix) |
-| [0059-spiral-matrix-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
+| [0059-spiral-matix-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kirubel567/leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kirubel567/leetcode-solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
