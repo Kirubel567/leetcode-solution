@@ -1,14 +1,22 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        pref_sum, post_sum = 1, 1 
-        res = [1]*len(nums)
-
-        for i in range(len(nums)): 
-            res[i] *= pref_sum
-            pref_sum *= nums[i]
-        
+        #store the pref and postfix multiplication first 
+        preMult = [1] * (len(nums)+1)
+        postMult = [1] * (len(nums)+1)
+        prod = 1
         for i in range(len(nums)-1, -1, -1): 
-            res[i] *= post_sum
-            post_sum *= nums[i]
-
+            prod *= nums[i]
+            postMult[i] *= prod
+        prod = 1
+        for i in range(len(nums)): 
+            prod *= nums[i]
+            preMult[i+1] *= prod
+        
+        print(preMult)
+        print(postMult)
+        res = [0] * len(nums)
+        for i in range(len(nums)): 
+            res[i] = preMult[i] * postMult[i+1]
         return res 
+            
+
