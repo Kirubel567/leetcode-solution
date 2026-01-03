@@ -1,14 +1,13 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        count, Sum, res = 0, 0, 0
-        pref_sum = defaultdict(int)
-        pref_sum[0] += 1
-
+        prefStore = defaultdict(int)
+        prefStore[0] = 1
+        Sum, count = 0, 0
         for i in range(len(nums)): 
             Sum += nums[i]
-            if Sum - k in pref_sum: 
-                count += pref_sum[Sum - k]
-            pref_sum[Sum] += 1
-        return count 
 
+            count += prefStore[Sum - k]
+
+            prefStore[Sum] += 1
         
+        return count 
