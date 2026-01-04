@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Kirubel567/leetcode-solution/tree/master/1293-three-consecutive-odds) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/1390-four-divisors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kirubel567/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kirubel567/leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/Kirubel567/leetcode-solution/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
