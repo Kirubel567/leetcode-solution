@@ -960,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Kirubel567/leetcode-solution/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kirubel567/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Kirubel567/leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
