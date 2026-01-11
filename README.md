@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Kirubel567/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Kirubel567/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Kirubel567/leetcode-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Kirubel567/leetcode-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Kirubel567/leetcode-solution/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kirubel567/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kirubel567/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Kirubel567/leetcode-solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Kirubel567/leetcode-solution/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
