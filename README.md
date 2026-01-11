@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Kirubel567/leetcode-solution/tree/master/0940-fruit-into-baskets) |
+| [0942-di-string-match](https://github.com/Kirubel567/leetcode-solution/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/Kirubel567/leetcode-solution/tree/master/1002-maximum-width-ramp) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/Kirubel567/leetcode-solution/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1044-find-common-characters) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Kirubel567/leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/Kirubel567/leetcode-solution/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/Kirubel567/leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-long-pressed-name) |
 | [1002-maximum-width-ramp](https://github.com/Kirubel567/leetcode-solution/tree/master/1002-maximum-width-ramp) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Kirubel567/leetcode-solution/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0917-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/Kirubel567/leetcode-solution/tree/master/0942-di-string-match) |
 | [1009-pancake-sorting](https://github.com/Kirubel567/leetcode-solution/tree/master/1009-pancake-sorting) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kirubel567/leetcode-solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
