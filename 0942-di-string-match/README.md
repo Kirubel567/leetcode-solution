@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/di-string-match">979. DI String Match</a></h2><h3>Easy</h3><hr><p>A permutation <code>perm</code> of <code>n + 1</code> integers of all the integers in the range <code>[0, n]</code> can be represented as a string <code>s</code> of length <code>n</code> where:</p>
+<h2><a href="https://leetcode.com/problems/di-string-match/description/">979. DI String Match</a></h2><h3>Easy</h3><hr><p>A permutation <code>perm</code> of <code>n + 1</code> integers of all the integers in the range <code>[0, n]</code> can be represented as a string <code>s</code> of length <code>n</code> where:</p>
 
 <ul>
 	<li><code>s[i] == &#39;I&#39;</code> if <code>perm[i] &lt; perm[i + 1]</code>, and</li>
