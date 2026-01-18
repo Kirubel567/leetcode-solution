@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Kirubel567/leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/Kirubel567/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kirubel567/leetcode-solution/tree/master/1791-richest-customer-wealth) |
+| [1895-largest-magic-square](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kirubel567/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Monotonic Stack
 |  |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Kirubel567/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Kirubel567/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Kirubel567/leetcode-solution/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2571-find-the-pivot-integer](https://github.com/Kirubel567/leetcode-solution/tree/master/2571-find-the-pivot-integer) |
