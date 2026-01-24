@@ -6,5 +6,5 @@ class Solution:
             if mapp[s[i]] == 1:
                 return i
         
-        return -1
+        return (-1)
         
