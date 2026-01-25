@@ -8,7 +8,7 @@ class Solution:
     
         nums = [str(i) for i in nums]
         nums.sort(key=cmp_to_key(compare))
-
+  
         print(nums)
         result = "".join(nums)
         return result if result[0] != "0" else "0"
