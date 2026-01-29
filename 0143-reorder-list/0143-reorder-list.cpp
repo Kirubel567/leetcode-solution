@@ -33,7 +33,7 @@ public:
 
         ListNode* firstpart = head;
         slow->next = nullptr;  
-        ListNode* reversed = before; 
+        ListNode* reversed = before;  
 
         while(firstpart && reversed){
             ListNode* n = firstpart->next;
