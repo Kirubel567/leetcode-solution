@@ -4,7 +4,7 @@ public:
         for (int m = 0; pow(2, m) <= n; m++){
             if (n == pow(2, m)){
             return true; 
-            break; 
+            break;   
         }
         }
         return false; 
