@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/Kirubel567/leetcode-solution/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Kirubel567/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
+| [0722-remove-comments](https://github.com/Kirubel567/leetcode-solution/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Kirubel567/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kirubel567/leetcode-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+| [0722-remove-comments](https://github.com/Kirubel567/leetcode-solution/tree/master/0722-remove-comments) |
 | [0742-to-lower-case](https://github.com/Kirubel567/leetcode-solution/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Kirubel567/leetcode-solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Kirubel567/leetcode-solution/tree/master/0782-jewels-and-stones) |
