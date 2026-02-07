@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/Kirubel567/leetcode-solution/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Kirubel567/leetcode-solution/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/Kirubel567/leetcode-solution/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Kirubel567/leetcode-solution/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kirubel567/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kirubel567/leetcode-solution/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Kirubel567/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kirubel567/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Kirubel567/leetcode-solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kirubel567/leetcode-solution/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1524-string-matching-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
