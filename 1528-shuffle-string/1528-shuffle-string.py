@@ -4,8 +4,8 @@ class Solution:
         ans = [0] * len(indices)
         for i in range(len(indices)): 
             mapp[i] = indices[i]
-        
-        for i in range(len(s)): 
             ans[mapp[i]] = s[i]
+        # for i in range(len(s)): 
+        #     ans[mapp[i]] = s[i]
         
         return "".join(ans)
