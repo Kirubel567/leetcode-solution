@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kirubel567/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kirubel567/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Kirubel567/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kirubel567/leetcode-solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kirubel567/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Kirubel567/leetcode-solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirubel567/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Kirubel567/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kirubel567/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/Kirubel567/leetcode-solution/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-number-of-recent-calls) |
@@ -1156,4 +1160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kirubel567/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
