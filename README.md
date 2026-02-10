@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3637-trionic-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kirubel567/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kirubel567/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kirubel567/leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
