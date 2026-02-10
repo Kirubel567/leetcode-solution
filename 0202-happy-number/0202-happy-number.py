@@ -1,21 +1,23 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        visited = set()
+        #detect some type of a loop if loop then return false 
+        #add the sum of the square into a hashmap and if the sum of the square is repeated ever again return false ez
+        #the main problem is getting each digit from the number
 
-        while n not in visited: 
-            visited.add(n)
-
+        #put the sum as a key and the value anything for now 
+        mapp = {}
+        
+        while n != 1: 
             Sum = 0
-            while n > 0: 
-                digit = n % 10
-                Sum += digit ** 2
-                n = n //10
+            for num in str(n): 
+                Sum += int(num) ** 2
+
             n = Sum 
+            if Sum in mapp: 
+                return False
 
-            if n == 1: 
-                return True
-
-        return False
+            mapp[Sum] = True 
+        
+        return True 
         
         
-            
