@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Kirubel567/leetcode-solution/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kirubel567/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Kirubel567/leetcode-solution/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1002-maximum-width-ramp](https://github.com/Kirubel567/leetcode-solution/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kirubel567/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1009-pancake-sorting](https://github.com/Kirubel567/leetcode-solution/tree/master/1009-pancake-sorting) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0898-transpose-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Kirubel567/leetcode-solution/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/Kirubel567/leetcode-solution/tree/master/1184-car-pooling) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kirubel567/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Kirubel567/leetcode-solution/tree/master/2048-build-array-from-permutation) |
