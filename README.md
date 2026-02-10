@@ -1177,4 +1177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kirubel567/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kirubel567/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
