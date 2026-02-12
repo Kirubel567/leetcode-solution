@@ -3,11 +3,13 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        for i in range(len(matrix)): 
-            for j in range(i + 1, len(matrix)): #here we start from i + 1 to avoid duplication around the diagonal, we are swapping around the diagonal and we could get the values from one side to swap no need to swap two times
-                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+        rows, cols = len(matrix), len(matrix[0])
 
-        for i in range(len(matrix)): 
-            matrix[i].reverse()
+        for r in range(rows): 
+            for c in range(r, cols): 
+                matrix[r][c], matrix[c][r] = matrix[c][r], matrix[r][c]
+        
+        for r in matrix: 
+            r.reverse()
+        
 
-       
