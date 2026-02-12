@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Kirubel567/leetcode-solution/tree/master/0811-subdomain-visit-count) |
 | [0860-design-circular-queue](https://github.com/Kirubel567/leetcode-solution/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0898-transpose-matrix) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Kirubel567/leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Kirubel567/leetcode-solution/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/Kirubel567/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0898-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kirubel567/leetcode-solution/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Kirubel567/leetcode-solution/tree/master/0529-minesweeper) |
 | [0661-image-smoother](https://github.com/Kirubel567/leetcode-solution/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Kirubel567/leetcode-solution/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kirubel567/leetcode-solution/tree/master/1791-richest-customer-wealth) |
