@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Kirubel567/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/leetcode-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Kirubel567/leetcode-solution/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/leetcode-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Kirubel567/leetcode-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/leetcode-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kirubel567/leetcode-solution/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kirubel567/leetcode-solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
