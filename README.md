@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Kirubel567/leetcode-solution/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Kirubel567/leetcode-solution/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2418-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kirubel567/leetcode-solution/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Kirubel567/leetcode-solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kirubel567/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kirubel567/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kirubel567/leetcode-solution/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kirubel567/leetcode-solution/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/Kirubel567/leetcode-solution/tree/master/2401-count-asterisks) |
+| [2418-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2418-sort-the-people) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kirubel567/leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirubel567/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Kirubel567/leetcode-solution/tree/master/2502-sort-the-people) |
