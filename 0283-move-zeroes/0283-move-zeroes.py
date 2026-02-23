@@ -3,16 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-
-        seeker = 0
-        holder = 0
-
+        holder, seeker = 0, 0 
         while seeker < len(nums): 
-            if nums[seeker] != 0:
+            if nums[seeker] != 0: 
                 nums[seeker], nums[holder] = nums[holder], nums[seeker]
                 holder += 1
             seeker += 1
-
-        return nums
-        
-        
+    
