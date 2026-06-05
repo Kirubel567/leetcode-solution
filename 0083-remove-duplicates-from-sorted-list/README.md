@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list">83. Remove Duplicates from Sorted List</a></h2><h3>Easy</h3><hr><p>Given the <code>head</code> of a sorted linked list, <em>delete all duplicates such that each element appears only once</em>. Return <em>the linked list <strong>sorted</strong> as well</em>.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/list1.jpg" style="width: 302px; height: 242px;" />
 <pre>
