@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+ 
 <pre>
 <strong>Input:</strong> s = &quot;abcabcbb&quot;
 <strong>Output:</strong> 3
