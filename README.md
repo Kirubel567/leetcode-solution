@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/Kirubel567/leetcode-solution/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kirubel567/leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kirubel567/leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kirubel567/leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3625-stone-removal-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Kirubel567/leetcode-solution/tree/master/0881-loud-and-rich) |
 | [0933-increasing-order-search-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kirubel567/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
