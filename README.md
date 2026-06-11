@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kirubel567/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Kirubel567/leetcode-solution/tree/master/3778-transform-array-by-parity) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kirubel567/leetcode-solution/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/Kirubel567/leetcode-solution/tree/master/3226-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kirubel567/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1175,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kirubel567/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
