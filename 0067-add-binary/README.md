@@ -5,7 +5,7 @@
 <pre><strong>Input:</strong> a = "11", b = "1"
 <strong>Output:</strong> "100"
 </pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> a = "1010", b = "1011"
+<pre><strong>Input:</strong> a = "1010", b = "1011" 
 <strong>Output:</strong> "10101"
 </pre>
 <p>&nbsp;</p>
