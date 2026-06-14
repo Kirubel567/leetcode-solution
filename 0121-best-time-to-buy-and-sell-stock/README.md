@@ -5,7 +5,7 @@
 <p>Return <em>the maximum profit you can achieve from this transaction</em>. If you cannot achieve any profit, return <code>0</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p> 
 
 <pre>
 <strong>Input:</strong> prices = [7,1,5,3,6,4]
