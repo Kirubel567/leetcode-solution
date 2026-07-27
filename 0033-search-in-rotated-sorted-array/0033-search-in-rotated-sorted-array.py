@@ -3,7 +3,7 @@ class Solution:
         l = 0
         r = len(nums) - 1
 
-        #dectect the largerst element of the division 
+        #dectect the largerst element of the division   
         pivot = 0
 
         while l < r: 
