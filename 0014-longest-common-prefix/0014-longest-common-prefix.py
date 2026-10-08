@@ -1,10 +1,10 @@
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
-        res = ""
+    def longestCommonPrefix(self, strs: list[str]) -> str:
+        ans = ""
         for i in range(len(strs[0])): 
-            for st in strs: 
-                if i == len(st) or strs[0][i] != st[i]: #i == len(st) to make sure to take the smallest common prefix
-                    return res 
-            res += strs[0][i]
-            
-        return res 
+            for j in range(len(strs)): 
+                if i >= len(strs[j]) or strs[j][i] != strs[0][i]: 
+                    return ans
+            ans += strs[0][i]
+        return ans
+        
